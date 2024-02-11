@@ -40,9 +40,6 @@ public class ReverseALinkedList {
 
     }
 
-
-
-
     public static void main(String[] args) {
         ListNode a=new ListNode(10);
         ListNode b=new ListNode(120);
