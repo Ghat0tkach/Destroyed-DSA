@@ -36,4 +36,6 @@
 
 17 [LinkedList Cycle 2](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
-18 [Reorder A LinkedList]()
+18 [Reorder A LinkedList](https://leetcode.com/problems/reorder-list/description/)
+
+19 [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)

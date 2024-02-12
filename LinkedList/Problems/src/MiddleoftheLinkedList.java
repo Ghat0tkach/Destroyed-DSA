@@ -9,7 +9,7 @@ public class MiddleoftheLinkedList {
           ListNode(int val, ListNode next) { this.val = val; this.next = next; }
      }
      //not single traversal , its my approach brute force
-         class Solution {
+
         public ListNode middleNode(ListNode head) {
             int sizeOfLinkedList=getSize(head);
             ListNode temp=head;
@@ -34,7 +34,7 @@ public class MiddleoftheLinkedList {
             }
             return  count;
         }
-    }
+
     //Optimised approach
     public ListNode RightmiddleNodeInSingleTraversal(ListNode head) {
           ListNode slow=head;
