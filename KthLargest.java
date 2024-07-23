@@ -1,3 +1,4 @@
+//brute force : time complexity O(n log n)
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         int length=nums.length;
